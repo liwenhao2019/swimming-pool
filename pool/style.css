@@ -1,0 +1,12 @@
+art.post{
+border-bottom:#ccc solid 1px;
+padding-bottom:20px;
+margin-bottom:30px;
+}
+art.post:last-child{
+border-bottom:none;
+}
+art.post .meta{
+background-colordarkgray;
+padding:8px 12px;
+}
